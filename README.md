@@ -33,7 +33,7 @@ In my view, AGI is more likely to be observed in a complex intelligent system wh
 ## Documents / 文档
 
 - [01 - 我眼中的 AGI](zh/01-我眼中的AGI.md)
-
+- [AGI in My View](en/01-AGI-in-My-View.md)
 ## Status / 状态
 
 This is not an academic paper, not a claim of AGI implementation, and not a technical release of any private system.  
