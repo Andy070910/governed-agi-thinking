@@ -34,6 +34,12 @@ In my view, AGI is more likely to be observed in a complex intelligent system wh
 
 - [01 - 我眼中的 AGI](zh/01-我眼中的AGI.md)
 - [AGI in My View](en/01-AGI-in-My-View.md)
+- [02 - 目标—环境递归意识假说](zh/02-目标环境递归意识假说.md)
+- [Goal-Environment Recursive Consciousness Hypothesis](en/02-Goal-Environment-Recursive-Consciousness-Hypothesis.md)
+
+
+
+
 ## Status / 状态
 
 This is not an academic paper, not a claim of AGI implementation, and not a technical release of any private system.  
